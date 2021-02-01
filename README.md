@@ -16,14 +16,13 @@
   [Questions](#Questions)
   
 ## Description
-  This is an application created by following the Udemy Ruby on Rails instructional series by Rob Percival and Mashrur Hossain. The purpose of this exercise is 
-  .
+  This is an application created by following the Udemy Ruby on Rails instructional series by Rob Percival and Mashrur Hossain. The purpose of this exercise is to program a rudimentary authentication application utilizing methods to loop through an array of users and verify authentication via a username and password.
 
 ## Installation
   Simply clone the repo locally.
 
 ## Usage
-  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [Ruby-Authenticator](https://tbragg800.github.io/Ruby-Authenticator/)
+  The user should navigate to the application directory and run the file in the user's CLI with the command "ruby ruby_authenticator.rb". 
 
 ## License
   MIT License
@@ -53,6 +52,4 @@ SOFTWARE.
   Email: tbbragg83@gmail.com
   Github: [TBragg800](http://github.com/TBragg800)
 
-## Screenshot of deployed application
-![](./assets/Ruby-Authenticator.png)
 
